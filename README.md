@@ -1,3 +1,3 @@
 # hello-world
 
-I am Elias and this is my Hello World readme!
+My name is Elias! This is my Github Hello World!
